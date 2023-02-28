@@ -33,14 +33,14 @@ body{
     text-align: center;
 }
 .principal__titulo{ 
-    font-size: 20px;
+    font-size: 18px;
     font-family: 'Outfit', sans-serif;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
 }
 
 .principal__paragrafo{
-    font-size: 15px;
+    font-size: 14px;
     font-family: 'Outfit', sans-serif;
     font-weight: 400;
     color: hsl(220, 15%, 55%);
